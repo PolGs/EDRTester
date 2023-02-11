@@ -24,7 +24,7 @@ The script is written in C and can be compiled using a C compiler for Windows, I
 ## Usage
 Compile the script using a C compiler for Windows.
 ![image](https://user-images.githubusercontent.com/19478700/218284413-ce5192f1-2e2c-4774-bc28-94cc86c4c2ad.png)
-Run the compiled executable as an administrator to test the EDR solution's detection and response capabilities.
+Run the compiled executable.
 ![image](https://user-images.githubusercontent.com/19478700/218284429-a0c522c0-a244-4050-ac22-2992028a6bd3.png)
 ![image](https://user-images.githubusercontent.com/19478700/218284458-bcef7b64-d2a5-4fbb-92ba-22bc4234c4f6.png)
 ## Disclaimer
